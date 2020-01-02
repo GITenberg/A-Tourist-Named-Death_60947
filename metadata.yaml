@@ -1,0 +1,39 @@
+_repo: A-Tourist-Named-Death_60947
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wood, Wallace
+    alias: Wood, Wally
+    birthdate: 1927
+    deathdate: 1981
+    gutenberg_agent_id: '32276'
+    url: http://www.gutenberg.org/2009/agents/32276
+    wikipedia: http://en.wikipedia.org/wiki/Wally_Wood
+creator:
+  author:
+    agent_name: Anvil, Christopher
+    aliases:
+    - Crosby, Harry C.
+    - Crosby, Harry Christopher
+    birthdate: 1925
+    deathdate: 2009
+    gutenberg_agent_id: '46334'
+    url: http://www.gutenberg.org/2009/agents/46334
+    wikipedia: https://en.wikipedia.org/wiki/Christopher_Anvil
+description: ''
+gutenberg_issued: '2019-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Extrasolar planets -- Fiction'
+- !lcsh 'Spy stories'
+- !lcsh 'Science fiction'
+- GITenberg
+title: A Tourist Named Death
+url: http://www.gutenberg.org/ebooks/60947
